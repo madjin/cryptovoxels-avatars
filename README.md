@@ -16,6 +16,11 @@ What's included:
 - FBX file of default avatar
 - VRM file of default avatar
 
+Download your wearables:
+
+Currently no easy method. Can go to https://opensea.io/accounts/<user>/cryptovoxel-wearables and follow each vox link to download your model. You will then need to convert the .vox to .obj or .fbx in order to properly merge with the base mannequin model.
+
+
 Customize and convert to VRChat:
 
 - https://github.com/esperecyan/VRMConverterForVRChat
