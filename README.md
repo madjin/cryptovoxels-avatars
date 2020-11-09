@@ -18,7 +18,7 @@ What's included:
 
 Download your wearables:
 
-Currently no easy method. Can go to https://opensea.io/accounts/<user>/cryptovoxel-wearables and follow each vox link to download your model. You will then need to convert the .vox to .obj or .fbx in order to properly merge with the base mannequin model.
+Currently no easy method. Can go to https://opensea.io/accounts/user/cryptovoxel-wearables and follow each vox link to download your model. You will then need to convert the .vox to .obj or .fbx in order to properly merge with the base mannequin model.
 
 
 Customize and convert to VRChat:
