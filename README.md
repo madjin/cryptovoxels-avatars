@@ -15,6 +15,7 @@ What's included:
 - Original .glb files
 - FBX file of default avatar
 - VRM file of default avatar
+  - View on vroid hub: https://hub.vroid.com/en/characters/3371663154434093435/models/1297340487903468493
 
 Download your wearables:
 
