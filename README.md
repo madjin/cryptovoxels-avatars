@@ -19,10 +19,11 @@ What's included:
 
 Download your wearables:
 
-Currently no easy method. Can go to https://opensea.io/accounts/user/cryptovoxel-wearables and follow each vox link to download your model. You will then need to convert the .vox to .obj or .fbx in order to properly merge with the base mannequin model.
+Currently no easy method. Can go to https://opensea.io/accounts/user/cryptovoxel-wearables and follow each vox link to download your model. You will then need to convert the .vox to .obj or .fbx in order to properly merge with the base mannequin model. Import into magicavoxel or blender and export as obj. Then you can import the wearables into Unity to attach to different bones for your avatar. You could even attach it to non-mannequin avatars if you wish, like so:
 
+![](https://i.imgur.com/t2tfh4o.jpg)
 
-Customize and convert to VRChat:
+Resources to customize and convert to VRChat:
 
 - https://github.com/esperecyan/VRMConverterForVRChat
 - https://gist.github.com/emilianavt/51d8399987d67544fdebfe2ebd9a5149
